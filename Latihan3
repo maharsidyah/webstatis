@@ -1,0 +1,76 @@
+<html>
+<head>
+<title>
+BLACKPINK JENNIE
+</title>
+<link rel="icon" type="image/x-icon" href="favicon.ico"> 
+</head>
+<!--bagian style-->
+<style>
+    body {
+        background: linear-gradient(to right, #fc5c7d, #6a82fb);
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .container {
+        text-align: center;
+        padding: 20px;
+    }
+    h1 {
+        font-size: 36px;
+        background-color: beige;
+        font-style: italic;
+    }
+    .info {
+        text-align: justify;
+        font-family: 18px;
+        margin: 30px;
+    }
+</style>
+</head>
+<!--Bagian Style-->
+<body>
+    <div class="container">
+    <h1>BLACKPINK</h1>
+    <div class="info">
+<P>Siapa yang tak kenal dengan girlgroup asal Korea Selatan, BLACKPINK. Menggebrak panggung K-Pop dengan cara berbeda, mereka berhasil eksis di industri musik selama 6 tahun. Sejak awal debut, member BLACKPINK pun masih setia dengan formasi awalnya, yakni Lisa, Jennie, Rose, dan Jisoo. Selama 6 tahun aktif bermusik, member BLACKPINK dikenal dengan paras cantik dan punya banyak talenta. Sukses membuat para penggemarnya berdecak kagum, ternyata BLACKPINK menjalani karier yang tidak mudah. Mereka harus melampaui ekspektasi penggemar girlgroup seniornya 2NE1 yang sama-sama ada di bawah naungan YG Entertainment. BLACKPINK menjadi girlgroup pertama besutan YG Entertainment yang debut dalam 6 tahun setelah 2NE1. Namun, sebelum nama BLACKPINK digunakan, nama Next GirlGroup sempat melekat di antara member BLACKPINK sekarang. Selanjutnya, nama itu diubah oleh manajemen menjadi Pink Punk dengan 9 membertrainee yakni Jennie, Eunbi, Jisoo, Hanna, Miyeon, Lisa, Rose, dan Jinny. Belum sempat debut, beberapa member Pink Punk mengalami masalah hingga akhirnya meninggalkan YG Entertainment. Pada akhirnya, tersisalah empat member Pink Punk yang tidak lain adalah Jennie, Jisoo, Rose, dan Lisa. YG Entertainment pun kembali mengganti nama grup ini dengan sebutan BLACKPINK.</P>
+<br>
+<br>
+<h1>Biodata Member</h1>
+<ol>
+    <img src="images/jennie.jpg" style="width: 400px; height: 300px; float: left; margin-right: 15px;">
+    <br>
+    <br>
+    <il> Jennie Kim</il>
+    <p style="text-align: justify;">Jennie Kim (lahir 16 Januari 1996), atau lebih dikenal dengan mononim Jennie, adalah penyanyi, rapper dan aktris Korea Selatan. Dia debut bersama grupnya, Blackpink dengan posisi sebagai main rapper dan lead vocalist, yang didirikan YG Entertainment pada Agustus 2016. Pada November 2018, Jennie debut sebagai penyanyi solo dengan singel berjudul "Solo". Singel ini sukses, dan masuk dalam jajaran Gaon Digital Chart dan Billboard World Digital Songs. Pada tahun 2023, dia memulai akting pertamanya sebagai Dyanne dalam seriThe Idol, dengan nama panggung Jennie Ruby Jane.</p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <img src="images/rose.jpg" style="width: 400px; height: 300px; float: left; margin-right: 15px;">
+    <br>
+    <br>
+    <il> Rose Park</il>
+    <p style="text-align: justify;">Roseanne Park (lahir 11 Februari 1997), atau dikenal sebagai Rose adalah penyanyi dan penari berkebangsaan Korea Selandia Baru. Dia lahir di Auckland, dibesarkan di Melbourne, Victoria, Australia dan pergi ke Korea untuk debut sebagai anggota Blackpink.</p>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <img src="images/jisoo.jpg" style="width: 400px; height: 300px; float: left; margin-right: 15px;">
+    <br>
+    <br>
+    <il> Jisoo Kim</il>
+    <p style="text-align: justify;">Kim Ji-soo (lahir 3 Januari 1995), lebih dikenal sebagai Jisoo, adalah penyanyi, penari dan aktris Korea Selatan. Dia merupakan anggota Blackpink, dengan posisi sebagai vokalis dan visual utama.</p>
+
+
+</ol>
+</body>
