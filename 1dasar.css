@@ -1,0 +1,44 @@
+body {
+    background-image: url(https://i.ytimg.com/vi/5OZXq6TF584/maxresdefault.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.container {
+    width: 900px;
+    background-color: darkred; /* Set text color to black */
+    border: solid; color: black;
+    margin: auto;
+    text-align: justify;
+    padding: 50px;
+}
+
+h1 {
+    text-align: center;
+    background-color: rgb(223, 9, 9);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 60px;
+}
+
+h2 {
+    text-align: center;
+    background-color: rgb(223, 9, 9);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+}
+
+p {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+}
+
+#penjelasan {
+    background-color: darkred;
+    padding: 40px;
+}
+
+mark {
+    background-color: aliceblue;
+}
